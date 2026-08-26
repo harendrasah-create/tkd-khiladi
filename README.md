@@ -1,4 +1,4 @@
 # tkd-khiladi
 This is my first repository 
 <br>
-Author-Harendra sah
+Author-Harendra tkd
